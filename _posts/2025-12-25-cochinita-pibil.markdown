@@ -1,14 +1,13 @@
 ---
-layout: post
+layout: single
 title:  "Cochinita Pibil"
 date:   2025-12-25 22:15:57 +0100
-categories: capdany2025, mexicana
+categories: capdany2025 mexicana
 ---
 
 # Comentaris
 
 # Ingredients
-
 ## Per la carn
   - 1kg de cap de llom de porc
   - 100g de pasta d'achiote
