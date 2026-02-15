@@ -2,7 +2,7 @@
 layout: single
 title:  "Cochinita Pibil"
 date:   2025-12-25 22:15:57 +0100
-categories: capdany2025 mexicana
+categories: mexicana
 ---
 
 ## Ingredients
