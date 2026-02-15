@@ -15,17 +15,16 @@ categories: airfryer
   - 2 ous
   - Un pessic de sal
   - Ratlladura d'una llimona
-  - Suc de 1/2 llimona
 
 ## Preparació
 ### Preparació de la massa
-1. Preescalfar el forn a 180 ºC (escalfor a dalt i a baix) i preparar un motlle rectangular d'uns 20 x 10 x 7 cm (aprox. 1 litre), untant-lo amb mantega o esprai desemmotllant i enfarinant-lo lleugerament.
-2. Batre els ous amb el sucre durant 3 o 4 minuts fins obtenir una barreja més clara i esponjosa.
-3. Afegir la ratlladura de llimona.
-4. Barrejar a part el iogurt amb el suc de llimona i l'oli, i incorporar-ho a la mescla d'ous.
-5. Tamisar la farina amb el llevat i la sal.
-6. Afegir els secs en dues tandes, amb moviments suaus, fins que no quedin grumolls.
-7. Abocar la massa al motlle i allisar la superfície amb una espàtula. Donar un parell de cops suaus al motlle sobre el marbre perquè la massa s'assenti.
+1. Preparar un motlle untant-lo amb mantega (o folrar-lo amb paper vegetal humitejat)
+2. Batre les clares dels ous fins obtenir el punt de neu.
+3. Barrejar a part el iogurt, l'oli, els rovells dels ous, les ralladures de llimona. 
+4. Afegir les clares dels ous i remenar.
+4. Tamisar la farina amb el llevat i la sal.
+5. Afegir els secs en dues tandes, amb moviments suaus, fins que no quedin grumolls.
+6. Abocar la massa al motlle i allisar la superfície amb una espàtula. Donar un parell de cops suaus al motlle sobre el marbre perquè la massa s'assenti.
 
 ### Cocció amb air fryer
 1. Preescalfar l'air fryer a 160 ºC.
