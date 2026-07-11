@@ -1,5 +1,8 @@
 SHELL := /bin/sh
 
+# Prefer Homebrew Ruby over macOS system Ruby (2.6), which is too old for this project.
+export PATH := /opt/homebrew/opt/ruby/bin:/opt/homebrew/lib/ruby/gems/4.0.0/bin:$(PATH)
+
 .PHONY: install serve draft build clean
 
 install: ## Install Ruby dependencies
